@@ -1,2 +1,10 @@
 # learning-docker
-Learning how to crate containers with docker in a little project
+Aprendendo a usar o docker 
+
+Exemplo básico com NodeJs, MongoDb e Html
+
+Só necessita rodar o comando e tudo estará configurado em sua máquina:
+
+```
+docker-compose up
+```
